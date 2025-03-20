@@ -6,7 +6,7 @@ Canvas MCP is a set of tools that allows your AI agents to interact with Canvas 
 
 ## Features
 
-- **Find relevant resources** - Find relevant resources for a given query in natural language.
+- **Find relevant resources** - Ability to find relevant resources for a given query in natural language!
 - Get courses
 - Get modules
 - Get module items
